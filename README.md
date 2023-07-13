@@ -12,6 +12,7 @@ My name is Erik Murray. I'm a broadcast engineer dabbling in Python scripting to
 
 ### Language I code in
 - Python
+- Dart / Flutter
 - Javascript
 - SQL 
 - HTML (Jinja2 Templating)
